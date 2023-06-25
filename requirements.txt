@@ -1,0 +1,33 @@
+
+1. Clone the repository to your local machine.
+2. Install the necessary libraries and dependencies by running the following command:
+openai~=0.27.8
+streamlit~=1.23.1
+matplotlib~=3.7.1
+pyttsx3~=2.90
+Pillow~=9.5.0
+python-dotenv~=1.0.0
+moviepy~=1.0.3
+
+
+Usage
+Access the application by opening your browser and navigating to http://localhost:8501.
+Enter the patient's information, including name, age, symptoms, symptom duration, gender, and smoking status.
+Click the "Get Diagnosis" button to initiate the diagnosis process.
+Wait for the diagnosis to be generated and displayed on the screen.
+The diagnosis will be spoken out loud using the text-to-speech functionality.
+Medical expert recommendations will also be displayed and spoken.
+The histogram of patient ages and symptom durations will be plotted for visualization.
+
+Contributing:
+Contributions to this project are welcome. Here are the steps to contribute:
+
+1. Fork the repository.
+2. Create a new branch for your feature or bug fix.
+3. Make the necessary changes and commit them.
+4. Push your changes to your forked repository.
+5. Submit a pull request, explaining the changes you have made.
+
+License:
+This project is licensed under the MIT License.
+
