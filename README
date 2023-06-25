@@ -15,3 +15,5 @@ Key Features
 . Text-to-speech functionality for audio playback of diagnoses and recommendations
 . Displays histogram of patient ages and symptom durations for visualization
 . Includes a database to store patient information for future reference
+
+Note: Ignor and replace the existing API key, is REVOKED. replace with your API key.
