@@ -9,6 +9,7 @@ Pillow~=9.5.0
 python-dotenv~=1.0.0
 moviepy~=1.0.3
 
+Note: Ignor and replace the existing API key, is REVOKED. replace with your API key.
 
 Usage
 Access the application by opening your browser and navigating to http://localhost:8501.
